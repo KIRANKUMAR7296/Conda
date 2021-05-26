@@ -1,6 +1,6 @@
-# Conda
+# Anaconda
 
-### Conda Environment
+### Anaconda Environment
 
 ### Find all Environments
 ```python
