@@ -25,7 +25,7 @@ conda activate Environment_Name
 
 ### Install Package in New Environments 
 ```python
-conda install pandas numpy matplotlib seaborn jupyter bottleneck numexpr
+conda install ipykernel jupyter pandas numpy matplotlib seaborn bottleneck numexpr
 ```
 
 ### Deactivate Environment
