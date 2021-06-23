@@ -7,6 +7,10 @@
 conda info --envs
 ```
 
+```python
+conda env list
+```
+
 ### Update Entire Conda 
 ```python
 conda update conda
