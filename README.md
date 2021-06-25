@@ -32,6 +32,16 @@ conda activate Environment_Name
 conda install ipykernel jupyter pandas numpy matplotlib seaborn bottleneck numexpr
 ```
 
+### Install Kernel in New Environments 
+```python
+python -m ipykernel install --user --name kernel_name
+```
+
+### Uninstall Kernel from Environments 
+```python
+jupyter kernelspec uninstall kernel_name
+```
+
 ### Deactivate Environment
 ```python
 conda deactivate
