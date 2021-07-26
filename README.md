@@ -51,3 +51,11 @@ conda deactivate
 ```python
 conda remove --name Environment_Name --all
 ```
+
+### SSL Verification
+
+In case if `SSL` is not allowing to Create a new environment then set the SSL Verification to `No`
+
+```python
+conda config --set ssl_verify no
+```
